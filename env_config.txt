@@ -1,0 +1,6 @@
+# TMDB API Key for Movie Recommendation System
+# REQUIRED: Get your free API key from: https://www.themoviedb.org/settings/api
+# Free tier: Unlimited requests
+# Replace "your_tmdb_api_key_here" with your actual API key from TMDB
+
+TMDB_API_KEY=your_tmdb_api_key_here
